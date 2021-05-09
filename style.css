@@ -1,0 +1,58 @@
+html {
+    box-sizing: border-box;
+  }
+  
+  .jumboStyle {
+    text-align: center;
+    background-color: rgb(38, 38, 116);
+    color: white;
+  }
+  
+  body {
+    background-color: lightgray;
+  }
+  
+  .searchBar {
+    margin-right: 5px;
+    padding-left: 2px;
+  }
+  
+  .forecast {
+    text-align: center;
+  }
+  
+  .uvHigh {
+    background-color: green;
+    color: white;
+  }
+  
+  .uvSafe {
+    background-color: green;
+    color: white;
+  }
+  
+  .uvMed {
+    background-color: green;
+    color: black;
+  }
+  
+  .uvMod {
+    background-color: orange;
+    color: black;
+  }
+  
+  span {
+    padding: 5px;
+  }
+  
+  .fiveDayStyle {
+    background-color: rgb(72, 90, 78);
+    color: black;
+    margin: 0 auto;
+    margin-right: 5px;
+    padding: 10px;
+  }
+  #pastCities {
+    border-color: grey;
+    box-shadow: none;
+  }
